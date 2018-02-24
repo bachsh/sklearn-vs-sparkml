@@ -12,6 +12,7 @@ There are two notebooks in this repo, the first in Python and the second in Scal
 1. For the first notebook you are going to need the following:
     1. Jupyter
     1. Python scientific stack (specifically scikit-learn and matplotlib).
+    1. sklearn2pmml package.
 1. For the second notebook you are going to need [jupyter-scala](https://github.com/jupyter-scala/jupyter-scala). Follow the instruction on the repo page to install.
 
 # Data
